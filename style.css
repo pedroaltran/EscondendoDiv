@@ -1,0 +1,37 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section{
+    width: 450px;
+}
+
+section h1{
+    background: lightblue;
+    text-align: center;
+    padding: 25px 0;
+    color: #FFF;
+    border-radius: 10px;
+}
+
+div{
+    display: block;
+}
+
+#container p{
+    background-color: lightgreen;
+    color: #FFF;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+
+.button.hide{
+    margin-left: 10vh;
+    text-align: center;
+    background: lightcyan;
+    width: 300px;
+    border-radius: 5px;
+    border-color: gray;
+}
